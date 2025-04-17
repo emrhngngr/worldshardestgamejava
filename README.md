@@ -57,6 +57,9 @@ To run this project, make sure the **Java Swing** plugin is available in your de
    ```bash
    git clone https://github.com/emrhngngr/worldshardestgamejava.git
    cd worldshardestgamejava
+2. **Download Java Swing Plugin**
+3. **Ready to Play!**
+   > use WASD for movement.
 
 ## License
 
