@@ -1,6 +1,6 @@
 # The World's Hardest Game (Java Remake)
 
-This is a Java-based recreation of the classic *The World's Hardest Game*. It was developed entirely by me from scratch as a project for a Java programming course at university.
+This is a Java-based recreation of the classic *[The World's Hardest Game](https://archive.org/details/the-worlds-hardest-game_202310)*. It was developed entirely by me from scratch as a project for a Java programming course at university.
 In addition to recreating the core mechanics, I added several modern features such as:
 - A login/register system 
 - User registration (via MySQL)
